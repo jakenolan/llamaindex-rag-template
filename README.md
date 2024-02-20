@@ -6,7 +6,7 @@ A simple RAG chatbot template for starting a new LLM application. This template 
 
 <br />
 
-### Template Changes
+## Template Changes
 
 First, fill the empty string below with your API key
 ```python
