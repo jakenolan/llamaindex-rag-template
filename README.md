@@ -17,7 +17,7 @@ openai.api_key = ""
 
 <br />
 
-Next, replace all occurences of "<topic>" with whatever topic your application is about. See lines below.
+Next, replace all occurences of \<topic\> with whatever topic your application is about. See lines below.
 ```python
 ...
 [31] name="<topic>_data",
