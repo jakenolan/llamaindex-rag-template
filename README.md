@@ -15,17 +15,17 @@ openai.api_key = ""
 
 <br />
 
-Next, replace all occurences of <topic> with whatever topic your application is about. See snips below.
+Next, replace all occurences of <topic> with whatever topic your application is about. See lines below.
 ```python
 ...
-name="<topic>_data",
-description="Provides information about <topic>. Use a detailed plain text question as input to the tool."
+[31] name="<topic>_data",
+[32] description="Provides information about <topic>. Use a detailed plain text question as input to the tool."
 ...
 
 ...
-context = """\
-You are an expert in all information that has to do with <topic>. \
-You will answer questions about <topic> as in the persona of a very knowledgeable expert. \
-"""
+[37] context = """\
+[38] You are an expert in all information that has to do with <topic>. \
+[39] You will answer questions about <topic> as in the persona of a very knowledgeable expert. \
+[40] """
 ...
 ```
