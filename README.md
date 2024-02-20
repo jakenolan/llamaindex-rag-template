@@ -1,4 +1,4 @@
-# llamaindex-rag-template
+# LlamaIndex RAG Template
 
 <br />
 
