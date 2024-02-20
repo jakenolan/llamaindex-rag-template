@@ -2,7 +2,7 @@
 
 <br />
 
-A simple RAG chatbot template for starting a new LLM application. This template makes use of LlamaIndex and OpenAI. Specifically, this template is made using ReActAgent from LlamaIndex, which is an agent that you can create custom tools for to query or manipulate your data.
+A simple RAG chatbot template for starting a new LLM application in 50 lines of code. This template makes use of LlamaIndex and OpenAI. Specifically, this template is made using ReActAgent from LlamaIndex, which is an agent that you can create custom tools for to query or manipulate your data.
 
 <br />
 
